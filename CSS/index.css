@@ -1,0 +1,25 @@
+.alert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0;
+}
+
+table {
+    caption-side: top !important;
+}
+
+.green-text {
+    font-weight: bold;
+    color: green !important;
+}
+
+.red-text {
+    font-weight: bold;
+    color: red !important;
+}
+
+.yellow-text {
+    font-weight: bold;
+    color: orange !important;
+}
